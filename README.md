@@ -4,6 +4,8 @@ This project analyzes Airbnb listing performance across multiple cities, focusin
 
 The objective was to simulate a real-world business intelligence scenario by transforming raw data into actionable insights using Power BI.
 
+DOWNLOAD DATASET FROM HERE - https://mavenanalytics.io/data-playground/airbnb-listings-reviews
+
 ## Key Insights
 
 - Identified seasonal demand variations across cities using ribbon charts
